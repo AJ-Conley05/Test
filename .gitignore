@@ -1,0 +1,4 @@
+# .gitignore file example
+
+# Ignore .txt files - for fun. 
+*.txt
